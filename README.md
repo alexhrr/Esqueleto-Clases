@@ -1,5 +1,5 @@
 # Esqueleto-Clases
-Essqueleto Clases Proyecto final
+Esqueleto Clases Proyecto final
 
 Alex Humberto Rodriguez Rueda  20181020088 
 
