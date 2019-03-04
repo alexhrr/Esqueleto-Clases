@@ -124,8 +124,6 @@ public abstract class entidad {
         return new Rectangle(x, y, ancho2, alto2);
     }
 
-    // Returns whether or not the entity can
-    // move into the next position.
     public boolean validarProxPosicion() {
 
         if (moviendose) {
@@ -237,5 +235,4 @@ public abstract class entidad {
                 null
         );
     }
-
 }

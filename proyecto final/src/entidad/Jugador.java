@@ -46,7 +46,7 @@ public class Jugador extends entidad {
         ancho2 = 12;
         alto2 = 12;
 
-        velMovimiento = 2;
+        velMovimiento = 5;
 
         numMonedas = 0;
 
@@ -196,3 +196,4 @@ public class Jugador extends entidad {
     }
 
 }
+
